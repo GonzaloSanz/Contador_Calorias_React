@@ -1,1 +1,1 @@
-# Contador de Calorías con React.js, TypeScript, Tailwind CSS, LocalStorage y useReducer. 
+# Proyecto realizado con Vite, React.js, TypeScript, Tailwind CSS, LocalStorage y useReducer. 
